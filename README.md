@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Corentin Lelion Ferlet
+- 👀 I’m interested in computers in general, either software development or hardware research, as well as video games.
+- 🌱 I’m currently learning to code in C++ and Java
+- 📫 How to reach me, via e-mail: corentin54230@gmail.com
